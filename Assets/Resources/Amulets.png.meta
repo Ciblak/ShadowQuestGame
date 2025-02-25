@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 18751be95f5d656458c76a83ccac5522
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 770237224076749073
+    second: Amulets_0
+  - first:
+      213: 7721984846083870929
+    second: Amulets_1
+  - first:
+      213: 1875362289200599753
+    second: Amulets_2
+  - first:
+      213: 5931391113655965381
+    second: Amulets_3
+  - first:
+      213: -6689532269888054139
+    second: Amulets_4
+  - first:
+      213: -8609005001376775413
+    second: Amulets_5
+  - first:
+      213: -7704214502764090249
+    second: Amulets_6
+  - first:
+      213: 7522372259256360946
+    second: Amulets_7
+  - first:
+      213: -775859702680772324
+    second: Amulets_8
+  - first:
+      213: -4972708114800080894
+    second: Amulets_9
+  - first:
+      213: -5698294017948198633
+    second: Amulets_10
+  - first:
+      213: 2412772018670145277
+    second: Amulets_11
+  - first:
+      213: 2158510180684253939
+    second: Amulets_12
+  - first:
+      213: -6437261050574570095
+    second: Amulets_13
+  - first:
+      213: 5365380131585858884
+    second: Amulets_14
+  - first:
+      213: 5158637767905524744
+    second: Amulets_15
+  - first:
+      213: -4765260332759064402
+    second: Amulets_16
+  - first:
+      213: 6847103971735560021
+    second: Amulets_17
+  - first:
+      213: -8461094403034325663
+    second: Amulets_18
+  - first:
+      213: -2325898501359436424
+    second: Amulets_19
+  - first:
+      213: 3235269979217683166
+    second: Amulets_20
+  - first:
+      213: -7963991115525531023
+    second: Amulets_21
+  - first:
+      213: -1193081128477202885
+    second: Amulets_22
+  - first:
+      213: 8712770412102065652
+    second: Amulets_23
+  - first:
+      213: 5137354634827879283
+    second: Amulets_24
+  - first:
+      213: 2071943765316660226
+    second: Amulets_25
+  - first:
+      213: -6853143239419056000
+    second: Amulets_26
+  - first:
+      213: -6060895801394397182
+    second: Amulets_27
+  - first:
+      213: -7383048715258873800
+    second: Amulets_28
+  - first:
+      213: -5660923208167285136
+    second: Amulets_29
+  - first:
+      213: -7476212949873380606
+    second: Amulets_30
+  - first:
+      213: 800187603801846452
+    second: Amulets_31
+  - first:
+      213: 6427246545800232734
+    second: Amulets_32
+  - first:
+      213: -1302190689711222169
+    second: Amulets_33
+  - first:
+      213: 4310374395709696367
+    second: Amulets_34
+  - first:
+      213: -5981054186621545140
+    second: Amulets_35
+  - first:
+      213: -1032215358769763026
+    second: Amulets_36
+  - first:
+      213: 389856425973151503
+    second: Amulets_37
+  - first:
+      213: 4279348824763712620
+    second: Amulets_38
+  - first:
+      213: -3139297393698317187
+    second: Amulets_39
+  - first:
+      213: 705650832378995072
+    second: Amulets_40
+  - first:
+      213: 2101579197914899562
+    second: Amulets_41
+  - first:
+      213: -2386962175196776502
+    second: Amulets_42
+  - first:
+      213: -6408551031949174104
+    second: Amulets_43
+  - first:
+      213: 9215669461985683573
+    second: Amulets_44
+  - first:
+      213: -4766575580129735651
+    second: Amulets_45
+  - first:
+      213: 7203794340684590519
+    second: Amulets_46
+  - first:
+      213: 3769046795899260582
+    second: Amulets_47
+  - first:
+      213: -4439724380981745516
+    second: Amulets_48
+  - first:
+      213: -198119549967508453
+    second: Amulets_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amulets_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 38
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d63d0a995dca1f0800000000000000
+      internalID: -1032215358769763026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 38
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0778879a5c096500800000000000000
+      internalID: 389856425973151503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 37
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64c60a451d436b30800000000000000
+      internalID: 4279348824763712620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 36
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c5d4437a9fe64d0800000000000000
+      internalID: -3139297393698317187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd697719c409f360800000000000000
+      internalID: 7203794340684590519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae466377185e4430800000000000000
+      internalID: 3769046795899260582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49821fab23ee262c0800000000000000
+      internalID: -4439724380981745516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c5029a153204df0800000000000000
+      internalID: -198119549967508453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c8844a52b690b8245b1b05600ea193f0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Amulets_50: 390357935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

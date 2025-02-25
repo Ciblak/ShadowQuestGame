@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 7b95bd32b31302245b86f593797bbe81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5695554828987691439
+    second: staff-shot-01-30x15_0
+  - first:
+      213: -6057562210649720115
+    second: staff-shot-01-30x15_1
+  - first:
+      213: 7856996371678156403
+    second: staff-shot-01-30x15_2
+  - first:
+      213: 3623317084909670264
+    second: staff-shot-01-30x15_3
+  - first:
+      213: 5781316493874532498
+    second: staff-shot-01-30x15_4
+  - first:
+      213: -5705789190134865218
+    second: staff-shot-01-30x15_5
+  - first:
+      213: -3344921414641069493
+    second: staff-shot-01-30x15_6
+  - first:
+      213: 2301704307826067679
+    second: staff-shot-01-30x15_7
+  - first:
+      213: 3097034029570973234
+    second: staff-shot-01-30x15_8
+  - first:
+      213: 264807358787734060
+    second: staff-shot-01-30x15_9
+  - first:
+      213: 8351546511253181135
+    second: staff-shot-01-30x15_10
+  - first:
+      213: -1721057140937681110
+    second: staff-shot-01-30x15_11
+  - first:
+      213: -6621123386219242840
+    second: staff-shot-01-30x15_12
+  - first:
+      213: 8559179056177036653
+    second: staff-shot-01-30x15_13
+  - first:
+      213: 7033463131268124322
+    second: staff-shot-01-30x15_14
+  - first:
+      213: 8628056622103074960
+    second: staff-shot-01-30x15_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e8d633f0355f0b0800000000000000
+      internalID: -5695554828987691439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcab46583473feba0800000000000000
+      internalID: -6057562210649720115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 64
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376d8676298a90d60800000000000000
+      internalID: 7856996371678156403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f05aa01bb984230800000000000000
+      internalID: 3623317084909670264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 48
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2909f7f68bc5b3050800000000000000
+      internalID: 5781316493874532498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 48
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb26fbe46f6f0d0b0800000000000000
+      internalID: -5705789190134865218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42d8be02b37491d0800000000000000
+      internalID: -3344921414641069493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 33
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd885fd7fdb41ff10800000000000000
+      internalID: 2301704307826067679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23edfd58a00eafa20800000000000000
+      internalID: 3097034029570973234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 18
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27924c16a39d18e0800000000000000
+      internalID: -1721057140937681110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 18
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d356cc00058c670800000000000000
+      internalID: 8559179056177036653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: staff-shot-01-30x15_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 17
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098196ec8c30db770800000000000000
+      internalID: 8628056622103074960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fa555d1d2e8fd874fa049502aa28b046
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      staff-shot-01-30x15_0: -5695554828987691439
+      staff-shot-01-30x15_1: -6057562210649720115
+      staff-shot-01-30x15_10: 8559179056177036653
+      staff-shot-01-30x15_11: 8628056622103074960
+      staff-shot-01-30x15_12: -6621123386219242840
+      staff-shot-01-30x15_14: 7033463131268124322
+      staff-shot-01-30x15_2: 7856996371678156403
+      staff-shot-01-30x15_3: 3623317084909670264
+      staff-shot-01-30x15_4: 5781316493874532498
+      staff-shot-01-30x15_5: -5705789190134865218
+      staff-shot-01-30x15_6: -3344921414641069493
+      staff-shot-01-30x15_7: 2301704307826067679
+      staff-shot-01-30x15_8: 3097034029570973234
+      staff-shot-01-30x15_9: -1721057140937681110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3779,6 +3779,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Toggle_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1328291152934966, guid: 93a2bad1fd63c4296bf64b300c131171, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 114155395737220724, guid: 93a2bad1fd63c4296bf64b300c131171, type: 3}
       propertyPath: m_Text
       value: mute

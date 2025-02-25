@@ -68,8 +68,8 @@ public class GameManager : MonoBehaviour
 
     public void NextRoom()
     {
-        FightEnd?.Invoke();
         Player.Instance.poisonEffect.poisonStacks=0;
+        FightEnd?.Invoke();
         if(currentRoom==5) FadeScene("CampaignOverScreen");
         else FadeScene("Transition");
     }

@@ -38,7 +38,7 @@ public class TurnManager : MonoBehaviour
     void EnemyTurn()
     {
         Enemy enemy = FindFirstObjectByType<Enemy>();
-        if (enemy != null) enemy.AttackPlayer();
+        if (enemy != null && !enemy.dead) enemy.AttackPlayer();
 
         StartCoroutine(DelayedPlayerTurn());
     }

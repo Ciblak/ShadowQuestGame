@@ -7,6 +7,7 @@ public class Enemy : Character
     protected string enemyProj;
     protected string backDrop;
     private Sprite backgroundImg;
+    public bool dead=false;
     protected override void Start()
     {
         base.Start();
@@ -34,12 +35,8 @@ public class Enemy : Character
 
     public override void Die()
     {
+        dead=true;
         base.Die();
-        /*
-        PlayEffectOnEnemy("EnemyDeath");
-        SpriteRenderer slotSpriteRenderer = this.GetComponent<SpriteRenderer>();
-        slotSpriteRenderer.sprite = null;
-        */
         GameManager.Instance.NextRoom();
     }
     

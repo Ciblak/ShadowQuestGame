@@ -17,7 +17,7 @@ public class Wizard : Enemy
 
     public override void TakeDamage(int damage)
     {
-        Player.Instance.TakeDamage(damage/5);
+        Player.Instance.TakeDamage(damage/3);
         base.TakeDamage(damage);
     }
 }

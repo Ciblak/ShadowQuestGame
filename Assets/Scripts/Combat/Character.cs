@@ -27,7 +27,7 @@ public class Character : MonoBehaviour
     public virtual void TakeDamage(int damage)
     {
         int finaldmg=(damage-defense)*(1 + incDmgTaken/100);
-        currentHealth -= finaldmg;
+        if(finaldmg>0)currentHealth -= (int)System.Math.Round(finaldmg*1f);
 
         if (currentHealth <= 0)
         {

@@ -58,6 +58,7 @@ public void AddCard(Card card)
     {
         if(!TurnManager.Instance.isPlayerTurn) return;
         Card cardToUse = playerCards[cardIndex];
+        if(playerCards[cardIndex]==null)return;
         cardToUse.Consume(Player.Instance);
     }
 

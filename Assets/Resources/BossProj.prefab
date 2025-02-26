@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 6128145372554279267}
   - component: {fileID: 2763060804496729076}
   - component: {fileID: 3624234635656155519}
-  - component: {fileID: -1941645373641890318}
   - component: {fileID: 534951467781640617}
+  - component: {fileID: 5461486215781610691}
   m_Layer: 0
   m_Name: BossProj
   m_TagString: Untagged
@@ -155,20 +155,6 @@ CapsuleCollider2D:
   m_Offset: {x: -0.0015037699, y: 0.0015600073}
   m_Size: {x: 0.07310787, y: 0.063123874}
   m_Direction: 1
---- !u!114 &-1941645373641890318
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 483232656552949513}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 32ca74d87c174744ea8fba177ae92b4f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 3
-  damage: 10
 --- !u!95 &534951467781640617
 Animator:
   serializedVersion: 7
@@ -191,3 +177,17 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5461486215781610691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 483232656552949513}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cd7a6b24b0485245a65f04b06c137b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 3
+  damage: 10

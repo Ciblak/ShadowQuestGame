@@ -28,7 +28,7 @@ Transform:
   m_GameObject: {fileID: 8220478886519593252}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.58, y: -0.1, z: 0}
+  m_LocalPosition: {x: 4.32, y: -0.65, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -140,4 +140,5 @@ MonoBehaviour:
   randoDmg: 0
   lifeSteal: 0
   enemyIndex: 4
+  dead: 0
   beamCountdown: 3

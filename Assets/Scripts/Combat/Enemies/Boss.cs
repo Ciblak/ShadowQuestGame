@@ -15,8 +15,8 @@ public class Boss : Enemy
 
     public override void AttackPlayer()
     {
-        if(currentHealth<=2*maxHealth/3) {bossPhase=2; PlayAnimation("Phase2");}
-        else if (currentHealth<=maxHealth/3) {bossPhase=3; lifeSteal=20; PlayAnimation("Phase3");}
+        if(currentHealth<=maxHealth/3) {bossPhase=3; lifeSteal=20; PlayAnimation("Phase3");}
+        else if(currentHealth<=2*maxHealth/3) {bossPhase=2; PlayAnimation("Phase2");}
 
         if(bossPhase==1) {
             FireProjectile();
@@ -47,5 +47,11 @@ public class Boss : Enemy
         else{
             FireProjectile();
         }
+    }
+
+    public override void Die()
+    {
+        base.Die();
+        PlayEffectOnPlayer("NoTarget");
     }
 }
